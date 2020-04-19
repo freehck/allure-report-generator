@@ -20,6 +20,13 @@ Build
 
 To build the image just run `make` command. To push it to dockerhub there's `make push`.
 
+Ready image
+-----------
+
+On dockerhub: https://hub.docker.com/r/freehck/allure-report-generator
+
+    docker pull freehck/allure-report-generator
+
 Run
 ---
 
